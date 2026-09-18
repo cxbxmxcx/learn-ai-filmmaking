@@ -2,7 +2,7 @@
 
 *A tuba busker on a subway platform plays to commuters who ignore him until a toddler starts dancing, and by the time the train arrives the whole platform is dancing with her.*
 
-Watch: https://cxbxmxcx.github.io/learn-ai-filmmaking/day-7-the-director-s-prompt/
+Watch: https://cxbxmxcx.github.io/learn-ai-filmmaking/day-7-the-directors-prompt/
 
 ## The generation prompt
 
@@ -43,7 +43,7 @@ Constraints: six shots with hard cuts only at the listed times, no dissolves and
 Character turnaround reference sheet in the style of a modern 3D animated feature film, a stylized cartoon character with softly exaggerated proportions and not a photograph, 16:9, plain pure white background. The same man shown three times side by side at the same scale, feet on the same baseline, evenly spaced: a front view on the left, a three-quarter view in the middle, a right profile on the right. Full body from head to feet in every view, standing relaxed with a friendly, neutral expression; in the front view he holds a brass tuba resting against his hip, and in the other two views his arms are at his sides. Moe: a round, cheerful busker in his fifties with a full grey beard and ruddy cheeks, a red knit beanie, a brown corduroy jacket over a green sweater, worn blue jeans and tan leather boots. The three figures are identical in face, beard, clothing and proportions. Soft, even studio light, no cast shadows on the background, no text, no labels, no borders, no props other than the tuba.
 ```
 
-![@Image1 the character sheet](../docs/refs/day-7-the-director-s-prompt-image1.jpg)
+![@Image1 the character sheet](../docs/refs/day-7-the-directors-prompt-image1.jpg)
 
 ### @Image2: the close-up
 
@@ -51,7 +51,7 @@ Character turnaround reference sheet in the style of a modern 3D animated featur
 Using the attached character sheet as the reference for his face, a close-up portrait in the same stylized 3D animated style, 16:9, of the same man, Moe, front-facing and centered, framed from the collar up: a full grey beard, ruddy cheeks, warm eyes with laugh lines, a red knit beanie, the collar of a brown corduroy jacket over a green sweater. A friendly, neutral expression, plain pure white background, soft even light, sharp focus on the eyes, no text, no labels.
 ```
 
-![@Image2 the close-up](../docs/refs/day-7-the-director-s-prompt-image2.jpg)
+![@Image2 the close-up](../docs/refs/day-7-the-directors-prompt-image2.jpg)
 
 ## Infographic prompts (Nano Banana Pro, 16:9, 2K)
 
