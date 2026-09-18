@@ -7,11 +7,11 @@ Companion repository for the seven-day **Learn AI Filmmaking** series by Micheal
 | Day | Film | Length | Watch | Prompt |
 |---|---|---|---|---|
 | 1 | One Shot, One Story | 12 s | [watch](https://cxbxmxcx.github.io/learn-ai-filmmaking/day-1-one-shot-one-story/) | [prompts/day-1-one-shot-one-story.md](prompts/day-1-one-shot-one-story.md) |
-| 2 | Light, Lens and Look | 15 s | coming soon | coming soon |
-| 3 | Moving the Camera | 20 s | coming soon | coming soon |
+| 2 | Light, Lens and Look | 15 s | [watch](https://cxbxmxcx.github.io/learn-ai-filmmaking/day-2-light-lens-and-look/) | [prompts/day-2-light-lens-and-look.md](prompts/day-2-light-lens-and-look.md) |
+| 3 | Moving the Camera | 20 s | [watch](https://cxbxmxcx.github.io/learn-ai-filmmaking/day-3-moving-the-camera/) | [prompts/day-3-moving-the-camera.md](prompts/day-3-moving-the-camera.md) |
 | 4 | Characters Who Act | 25 s | coming soon | coming soon |
-| 5 | Editing Inside the Prompt | 30 s | coming soon | coming soon |
-| 6 | Effects That Belong in the World | 30 s | coming soon | coming soon |
+| 5 | Editing Inside the Prompt | 30 s | [watch](https://cxbxmxcx.github.io/learn-ai-filmmaking/day-5-editing-inside-the-prompt/) | [prompts/day-5-editing-inside-the-prompt.md](prompts/day-5-editing-inside-the-prompt.md) |
+| 6 | Effects That Belong in the World | 30 s | [watch](https://cxbxmxcx.github.io/learn-ai-filmmaking/day-6-effects-that-belong-in-the-world/) | [prompts/day-6-effects-that-belong-in-the-world.md](prompts/day-6-effects-that-belong-in-the-world.md) |
 | 7 | The Director's Prompt | 30 s | coming soon | coming soon |
 
 ## How the films were made
